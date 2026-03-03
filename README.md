@@ -1,6 +1,6 @@
 # BioSecureGate – Biometric Identity Verification System
 
-![BioSecureGate](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue) ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
+
 
 ## 📋 Project Overview
 
@@ -292,12 +292,6 @@ FLASK_ENV=development
 
 ---
 
-## 🤝 Contributing
-
-1. Create a new branch for your feature
-2. Commit your changes with clear messages
-3. Push to the branch
-4. Submit a pull request
 
 ---
 
@@ -319,20 +313,6 @@ FLASK_ENV=development
 
 ---
 
-## 📞 Support & Contact
-
-For issues, questions, or contributions:
-- **GitHub Issues:** [Open an issue](https://github.com/pngurusinghe/BioSecuregate/issues)
-- **Author:** Pulindu Nadil
-- **Email:** [Add your contact email]
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 ## 🙏 Acknowledgments
 
